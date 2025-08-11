@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<pagination-pro>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.paginationpro.Application",
+            "projectName": "pagination-pro",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

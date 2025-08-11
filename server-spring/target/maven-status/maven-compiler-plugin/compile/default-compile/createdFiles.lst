@@ -1,0 +1,5 @@
+com\paginationpro\dto\PageResponse.class
+com\paginationpro\Application.class
+com\paginationpro\controller\ItemController.class
+com\paginationpro\model\Item.class
+com\paginationpro\repo\ItemRepository.class
