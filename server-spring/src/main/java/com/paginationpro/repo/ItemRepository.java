@@ -38,7 +38,7 @@ public class ItemRepository {
         int start = (page - 1) * limit;
         int end = Math.min(start + limit, sorted.size());
         if (start >= sorted.size()) {
-            return List.of();
+            // return List.of();
         }
         return sorted.subList(start, end);
     }

@@ -8,6 +8,7 @@
   <name>pagination-pro</name>
   <properties>
     <java.version>17</java.version>
+        <parameters>true</parameters>
     <spring.boot.version>3.3.3</spring.boot.version>
   </properties>
   <dependencyManagement>
